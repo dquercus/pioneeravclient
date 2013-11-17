@@ -20,4 +20,17 @@ Python client to remotely control a Pioneer AV like VSX-528
 Features
 --------
 
-* TODO
+*
+
+Example
+--------
+
+Software Disclaimer
+--------
+"Python Pioneer AV Remote Client" is a software project wholly unaffiliated with Pioneer Electronics.
+In no way is "Python Pioneer AV Remote Client" authorized, supported, acknowledged, or endorsed by Pioneer Electronics.
+FURTHERMORE, you use this software project AT YOUR OWN RISK. The possibility indeed exists that bugs exist in this
+software which could lead to catastrophic failure of your Pioneer Electronics equipment.
+In no event shall David Encinas or Pioneer Electronics be held in any way liable for malfunction, damage, or
+destruction to your personal property (including but not limited to personal property created and/or manufactured
+by Pioneer Electronics) arising from your use of (or failure to use) this project.

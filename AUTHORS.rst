@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* David Encinas Fernández <david@david>
+* David Encinas Fernández
 
 Contributors
 ------------

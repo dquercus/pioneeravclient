@@ -40,3 +40,26 @@ output/*/index.html
 
 # Sphinx
 docs/_build
+.vagrant/machines/default/virtualbox/action_provision
+
+.vagrant/machines/default/virtualbox/action_set_name
+
+.vagrant/machines/default/virtualbox/id
+
+.idea/vagrant.xml
+
+.idea/.name
+
+.idea/encodings.xml
+
+.idea/misc.xml
+
+.idea/modules.xml
+
+.idea/pioneeravclient.iml
+
+.idea/scopes/scope_settings.xml
+
+.idea/vcs.xml
+
+.idea/workspace.xml

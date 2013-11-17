@@ -10,7 +10,7 @@ Tests for `pioneeravclient` module.
 
 import unittest
 
-from pioneeravclient import pioneeravclient
+from pioneeravclient import PioneerAvClient
 
 
 class TestPioneeravclient(unittest.TestCase):
