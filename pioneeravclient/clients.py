@@ -45,6 +45,14 @@ class VSX528Telnet(object):
         "Send request to decrease volume by 1 unit"""
         self.__sendcmd__("VD")
 
+    def switchOn(self):
+        "Turn on A/V"""
+        self.__sendcmd__("PO")
+
+    def switchOff(self):
+        "Turn off A/V"""
+        self.__sendcmd__("PF")
+
     def mute(self):
         "Mute sound"""
         self.__sendcmd__("MO")
