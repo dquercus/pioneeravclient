@@ -11,7 +11,7 @@ class PioneerAvClient(object):
     """ Factory pattern for client instantiation """
 
     @classmethod
-    def factory(cls, model, ip, port=8102):
+    def factory(cls, model, ip, port=8102, timeout=10):
         """ Factory method that returns right client based on given model name. """
         if (model == "VSX-528"):
             return VSX528Telnet(ip,port)
